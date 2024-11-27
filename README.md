@@ -6,4 +6,5 @@ Este repositorio contiene una serie de notebooks de aprendizaje interactivo en l
 - Storytelling con Datos: Presentación efectiva de datos y resultados a través de narrativas visuales.
 - Aprendizaje Automático: Implementación de modelos predictivos con técnicas de machine learning.
 - Bandido Multibrázo: Implementación del algoritmo multi-armed bandit para optimizar decisiones en entornos inciertos.
+
 Cada notebook cuenta con explicaciones detalladas, visualizaciones y código limpio.
